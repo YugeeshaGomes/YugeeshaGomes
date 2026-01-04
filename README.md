@@ -14,3 +14,11 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
+---
+
+## 📊 GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=yugeeshagomes&show_icons=true&theme=github_dark)
+
+---
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yugeeshagomes&theme=github-dark)
