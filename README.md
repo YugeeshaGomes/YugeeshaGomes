@@ -15,13 +15,10 @@
 
 ---
 
-## 🧰 Languages, Frameworks & Tools
+## 🧠 Languages • Frameworks • Tools
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,cpp,html,css)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,mongodb,postgres,mysql,git,github,vscode,figma,aws" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
-### Frameworks / Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,mysql)](https://skillicons.dev)
