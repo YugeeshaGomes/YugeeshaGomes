@@ -14,3 +14,14 @@
 - 📫 Reach me via my socials below
 
 ---
+
+## 🧰 Languages, Frameworks & Tools
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,cpp,html,css)](https://skillicons.dev)
+
+### Frameworks / Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,mysql)](https://skillicons.dev)
