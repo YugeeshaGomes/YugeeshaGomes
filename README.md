@@ -21,7 +21,7 @@
 
 ---
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yugeeshagomes&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YugeeshaGomes&theme=github-dark)
 
 ---
 
