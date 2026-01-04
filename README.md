@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Yugeesha Gomes
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yugeesha+Gomes;Software+Engineering+Undergrad;Aspiring+Full-Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1200&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;I'm+Yugeesha+Gomes)](https://git.io/typing-svg)
 
 🎓 **Software Engineering Undergraduate**  
 💻 Passionate about building software, learning new technologies, and solving real-world problems  
