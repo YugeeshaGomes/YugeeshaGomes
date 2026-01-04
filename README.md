@@ -22,3 +22,13 @@
 ---
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yugeeshagomes&theme=github-dark)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YugeeshaGomes&show_icons=true&theme=github_dark)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugeeshaGomes&layout=compact&theme=github_dark)
+
+---
