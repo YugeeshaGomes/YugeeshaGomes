@@ -16,19 +16,7 @@
 
 ---
 
-## 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=yugeeshagomes&show_icons=true&theme=github_dark)
-
----
+## ⚡ Stats ⚡
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YugeeshaGomes&theme=github-dark)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YugeeshaGomes&show_icons=true&theme=github_dark)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugeeshaGomes&layout=compact&theme=github_dark)
-
----
